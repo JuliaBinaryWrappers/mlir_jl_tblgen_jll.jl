@@ -1,6 +1,6 @@
 name = "mlir_jl_tblgen_jll"
 uuid = "3dcf74f3-6bc3-597e-9d13-043388c3118a"
-version = "0.0.6+0"
+version = "0.0.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
