@@ -1,2624 +1,2624 @@
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c9307e0a3b600374bf979f97825d715433dc2017"
+git-tree-sha1 = "44d3e3acfb8a0bfe77997a7edcd6988b9bb7d770"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "1e625a48800a9e7bbd51034ef3e6a8edcf1dfa3925fb150971d9e887c0698bd3"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+14.tar.gz"
+    sha256 = "69807149cf0c67ad6b14a77ae4f10660a3fb715a30497532f5361a7d283f53f9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b1c6b898fbf05a7d8a780806aa95ddd8cd739fe"
+git-tree-sha1 = "9d0cc7d57aa7bb6059b51c62a391f949ffbcb347"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e8c66c541d65430fa2424212e5d1d47db34ac76188f65366045e1ed20a08bcd1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+14.tar.gz"
+    sha256 = "12baf135890c1135ec5f6c0decca5b186e430979e56b69c864ff0831b4e624e7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5051e039a971accfe0c7e0015553c77e97d58f2"
+git-tree-sha1 = "6207de2fd04919b3965d6332b25d2613a6244cf4"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0735e564d2984c7b9a236d43764df6ab0c64599dfd854101bd8636b6c4abd813"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+14.tar.gz"
+    sha256 = "a066dedea63d08bb2a91e57a589aea30b1fb91b4f2d6d4248fd8ea6296472cca"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7566534c339f9fd7a28e889853cd1c0d661bd0f"
+git-tree-sha1 = "a17fddbd029454f0ab889e2b012f382c420e9c2d"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "87e16a2d87ef1b81f0a7aa5d78b7a0fe738a228c0bbaddeb32c08abd41cc76d4"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+14.tar.gz"
+    sha256 = "9803333f4cbe4e409552395cecc37d1df27c7b98b2e2312cdaecdd1d48626fe9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81d927e4c3c0ad443ffbf3839abeb1320ffb3ba8"
+git-tree-sha1 = "0ff55b4d46d2a1d1b3a0aa6fd683a248eff0dc97"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ffff02f0708a786b9337681bdc0c96ff0193e890b514efc668b9bd00983b048b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+14.tar.gz"
+    sha256 = "0c107a5ca10d552b7b6414d58b9ed0c37cab0cb892c6655057dcb92993dacb13"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89afd088b28239df78becbc0be8c55052b964cf1"
+git-tree-sha1 = "ff8bf1e05a8171660f6cb20fc2a805a62a266e61"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f449776d148c863d42878562451a5a2c4902542d4f34c4afaa2abf0c236d48a1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+14.tar.gz"
+    sha256 = "81e57406d0992590a427777bb4f3eb70f693ca535755231940157e4efc5b4c50"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e8026f05910ca363c9eb36bf45ff3502335469b5"
+git-tree-sha1 = "070311a27f1440937298123f74081ef5e5cabcb2"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5ba2c539cfd527476088928314a1f56acd17fc30977ee50816bf9aa72173549d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+14.tar.gz"
+    sha256 = "62998078888b62c33b36465ab1a1dd9b232f6da421b1885f3f37e9598065e802"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3372e3f4d7ce65e4bcfa1bd2657f18a5e1837284"
+git-tree-sha1 = "c25eb1c6ff0ee10baa8bf0a47bb78d927c7391b3"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "30e845610d89102ef89fc6f00b2e1d286fd09eea37c9b93f95b395e3f479452b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+14.tar.gz"
+    sha256 = "3691e8b950bbb61b989a026517e439490fee02dbf68e508091e93f016283734f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b2c69471d8a3e45f3072c2ad789c0af0b34e97a"
+git-tree-sha1 = "6df4c95b85266dea011a5407ba4bd60079a9d251"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "420b528c7104bf0e189b1c9a47b86bfd1351a889beb5226a5c9bdf29e050c08f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+14.tar.gz"
+    sha256 = "22c190f47e5bf4851eee32cdfffb488533d99d900fbe5ace7d0a88da64d3c8ce"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "31d412fd040b6c09a15149f2fb8a210f7b614c0a"
+git-tree-sha1 = "3da0270e8d2ab103dc691882dae9d364ca6e9afe"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "82e3f5811f37908992a8e987f708224564d497841fbaffff6e373dc3076c5114"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+14.tar.gz"
+    sha256 = "dfbd72557d83e52ac07b931d8107c5de0d474aab55cdd00eb8bba1eca07ec12c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea942aeb80b1f49c6a3ff70c3ec8e52d27b07248"
+git-tree-sha1 = "6a57e6cb5306631a4f74c6043d8a60765fa43c39"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "999af3b8f0cd6b8683bbf15a05a9a773790d49e281f4e0a5dde8c8d51fdfdb9f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+14.tar.gz"
+    sha256 = "eac9e91493940b6fe78751f93e41ec7d6a5b3b67fd54879d5f88aa3540aff77f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "98cb77bfe22f590fce551066d1fa9425ac5f8422"
+git-tree-sha1 = "d17eca72e5f750f3f2c0877ca3ae7b2e8bb68c52"
 lazy = true
 libc = "glibc"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "8c961e624e67e76c4541540bd3d6d4bb9c0689ac7b8feee2b8e2cf6dde6e42f0"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+14.tar.gz"
+    sha256 = "21ce93c3f5ac8cb8c3c9abbc6a468cf3639f728500e68d543dfac5ca05c2c084"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6be2b8911df6ef024e1d16e1ec3f778b1afe26e9"
+git-tree-sha1 = "f7677591bfe4603ea0338816f2f60ce92d8416e8"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "6c4677276903c5225b8e2975573b909cfc4e515ddce6775d8a682c6e1829ca08"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-musl-cxx03-llvm_version+14.tar.gz"
+    sha256 = "486c509dc35a741d9c12952d771a6d8bb471530f061e94d6f630621fd421ea16"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-musl-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffdfe2c4674362d1b5b52fb4f2618258449c6f07"
+git-tree-sha1 = "c2973c381d5710fdce075cea5e6d75b467f78d08"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4dc5ddd554a49c967fa73606899e20612789537129b6856994c381cb2576a6fc"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-musl-cxx11-llvm_version+14.tar.gz"
+    sha256 = "58823ea065e6b2684e89ba1877d021a9c27e23ff45558b1ef149f5f4e5d3b8af"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-musl-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12409a9a79dbb023ea6f54236cb51fcda2a150c5"
+git-tree-sha1 = "51fa9e83709a5ba34ddae934347cfcf5ca696725"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "225aeb4ad88145d5b9eab8df7aa5b0a044a484acf6813d5f9604733efc04644a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+14.tar.gz"
+    sha256 = "bbd9e05531fdfa5a198820cb8157e341247b7a3bfbafe1783fe57d0d63123e0f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "88200dcc6a299a1a8f02bb6114081ad50cfa348e"
+git-tree-sha1 = "53795a1c5f5290c6cbea4d741c71dc092f11fec8"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "b216a52863ca5bb1b4012e714ac84fb5a8b4db65ec941c3e45c6059f21ef3267"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+14.tar.gz"
+    sha256 = "2aefbd3b35fcfc33b16dc21815a4ab7991d16ef0a669aaeb1ee762fc7d828ddd"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "98e26a796da2459977d45764ad6025a2a3f8ec99"
+git-tree-sha1 = "5023c4b84d618504b346fa8f9c54218038dd4c02"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "8c1d886776c7db39f7692820c9855dd6d0fa20d14cb553ddbfc703c27cc3f355"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+14.tar.gz"
+    sha256 = "d55e92c8c212ee01ae0e69117c2a3c8615b38cc4bac88f518ef0f76e9d158f7b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b7593ee7ed58368508908695343baa93074da17"
+git-tree-sha1 = "bd8360731fffd31fee0760b1a14e0fec7a6f5fe2"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "123753f14967a17af591d2d580d7aa1a5ad6d3f94d61191d81d332337c32ea76"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+14.tar.gz"
+    sha256 = "e072d6553160d2a890f0b20bd705aaa9bdbe9aff84826a16d6f5386f29573c39"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cbecdd4e5174d6ce8c699bd4d836218cf28506a5"
+git-tree-sha1 = "cdc31b745fd452dbdaf7cc89db14dcc015999b72"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "70ca2616f95fc7ccc61342775ece206b889e28dc7e9ecd403ae5459add49ae90"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+14.tar.gz"
+    sha256 = "8ff0c6ca9e10c2fa4e112c47fdb352cc1d31a7d2c32a24adeb95a70749a26b14"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "954ebf712a16c252eb7d228644042e0ff977629a"
+git-tree-sha1 = "eee4a7b9f5adeef508f9313959e769780e214ff3"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "79c1db1e96230fecbc6d1f8ed0d6420f4f92705a06208eb090217df667fccd50"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+14.tar.gz"
+    sha256 = "cd7839a75d347287754ee8d6a1dc82325ef79acf808f37b405ba7f365dd9ff58"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7bdef93eabe463160467a0d65e153a087e6f4daa"
+git-tree-sha1 = "0ad1f707a9ce34d36b0f8d72091aa7951855f3c4"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "31072819a864003d69ee650282f928aa315e493385b02570cca4d3bb21ba1d88"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+14.tar.gz"
+    sha256 = "a0a428bb5242628d19c963ab046d9af3a1e26a12aedb933b0764085c88d75d34"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "308e594a9d8e8567c6408fd890337f8773d1ef14"
+git-tree-sha1 = "00301235e00f5d76f64c79dc9c60a53d0491e52d"
 lazy = true
 libc = "musl"
 llvm_version = "14"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "074f8f513051bcd6f2f7b30d27f43590d571666d654041936087deec9301055c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+14.tar.gz"
+    sha256 = "6001c7d55ed2296f83290213d65a3bb686c9185414cfe9f578020fa5eaa7f1d7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "312ab35cb315bc11830696ad8824f6e5056889a0"
+git-tree-sha1 = "fbfc532e58b65f24e0cb40fb22366e9a8e2631fb"
 lazy = true
 llvm_version = "14"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "39f707d83584b90bd773e542298533420602b3d12694e054e8558cf94dac415f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+14.tar.gz"
+    sha256 = "c96d91bb9a05659d3bf220a8a248b51e6a4a852b54784c65951e0c6889240b4d"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "c404ee28fcebcc17c38317fe7ab70194e975b172"
+git-tree-sha1 = "d020c4379523002ad700b6ae07a56c771f18bef3"
 lazy = true
 llvm_version = "14"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5947c362ea71e798105d5f7f961277095c6926f63b9e960ad97e0dcc80262bcf"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+14.tar.gz"
+    sha256 = "ea8f402d96eb9e7823640a5447a5c733723c5ebb05c6ea74d9c0f5c62739b9a7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "ab0dac46125b77abbf2c9c52bf465d076c32e02d"
+git-tree-sha1 = "c1f1dbfdfcba74f2c12634f627c101245c555859"
 lazy = true
 llvm_version = "14"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "38140826f681d0e0dde541014137c32d4f8a6ee92910ee12d33f2c4af416678f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+14.tar.gz"
+    sha256 = "5d8583f7474d7b75f7d269ce2865a4f1b32ee53f9ee781488e7d2f0daf27bc52"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "491581522be1fa5d1a4f7b2f94a9628ba4f85e66"
+git-tree-sha1 = "145c9360eb7785b81b4aa38d21dd7d6e7380d72e"
 lazy = true
 llvm_version = "14"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "18086bf0226c327250725d6492908a70dd5392c85f9f1d0b03089489ba8a4f09"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+14.tar.gz"
+    sha256 = "d0b6e77b4a4c8a1bd7b5a4fe9b51016ff8853626c8b1bed6fb6d41b905db92a4"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a60adf2cc0603c04fec8b567e9e33bff46e8704d"
+git-tree-sha1 = "502211ed69159f4b5241e071e5af582ac080effe"
 lazy = true
 llvm_version = "14"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "17d2ed021ff559c0f9b87ef0103a379f0d190de6ba54638fe41534db56cd6b14"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+14.tar.gz"
+    sha256 = "f9f5d66abb1dd4d3c22aa56573349d4b6a6b5cd6719a21c4ab75592f4c76a57b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edc6465c73961a78f95374972a480e14d86dd77e"
+git-tree-sha1 = "e669d9417080efe486fa5d439833b8fee3352f95"
 lazy = true
 llvm_version = "14"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ade5982b0b1ba941967633b87db389c9dd993b69ec0bc53d2ca24c9f24104c39"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+14.tar.gz"
+    sha256 = "6908d7b7a24bd40568a36874d312a57e7f63426d74e74672d1d8ffde1f6d30e5"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb699dbb217a112cf15d10ff08168a9368fe6e15"
+git-tree-sha1 = "aa542abf7c43462885cc21abe2ffc805fc2157f2"
 lazy = true
 llvm_version = "14"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "65767953295715f564939a5d1f7c61fbb0f16b87cc35ebcd7c8e36df1c3456a5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+14.tar.gz"
+    sha256 = "df1d33224710b07c6a47995b4fa0a40c84408f826f0b0d0da347c89117d29f15"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+14.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "080fc2b3363fb8ff3566925c5e6ca24d6309b253"
+git-tree-sha1 = "fc3b64c07d373c9456e34adf9f2f2967bf29d450"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d1ec384c980a7d7bbeac6aa363c8ebbc127ca4cd7d802c5a94085b4fb5b8e4c1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "50552c1d646f79400c5ec53a7028af84f97dad8d59f1815243cbd5f8b94be4d9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc97f134eb0c0b1b7273e558461abf4ca69a8c3c"
+git-tree-sha1 = "acee3efee6cb51ce365252d0b0080619ba05fc01"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4d08af9cb06607a7c2da039eec9ae018cb9a0b0536a29c7aee7e19487eace8e2"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "f868abf6d2b187336675e7ebc3bcffeaae432c1c0df3ce6d2c5e7fb58ed98e78"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b7ecbce4cf8b3169f412245603c570bb79766c12"
+git-tree-sha1 = "0307e3e41b6d0c2d7a96f900206bf9acb3d9f5a6"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "58cc9a0cb0c28236b04d8d5a9ac7fd04bbe8e8d5109c437fe36e0573d6d1faac"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "ae8a854f15e7c1369432eaa771f77cffad71b3c1ee10d8ee5c6ec6c814513d03"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b33d7658f5b386691a32783e6bfb32c282335a0b"
+git-tree-sha1 = "0c43877cbc0f27ad8033f796d85b6236b6f9b7fb"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ecfdda2ad6f4ec2ee6437eec3bac2475b744da724399ac1fe8b9d92b63eba736"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "e9e440f653eae477fcc634296d4bd2bf1a23405ed50dc2e3ce6e90c9006998c2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9cfb7e55c86b8cae4a2ad7c12abd25f863306643"
+git-tree-sha1 = "ec762117546e6373ddc06a297443442cb8f38dfe"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ca17feb920f0d4e7164f1899d364a4fa002ba5441322a27857e75e3dd3e0130d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "49a7b37fcec0adb6e0a52a8f3c56d5d322fad3a2ae1e4e3d8005a285688a89a5"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "af70f5302bbbab13168d76d99da4efb70bb10bb5"
+git-tree-sha1 = "8b8088fe692e0d84a2825b7805e4f09d973c1bf4"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a5864c085a0cb52f6fed95e48d78ee9bccef6b65a46004d905a031f8fca04545"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "26db6c19f7faaa5d35765c30a7473a0df337abc2c42baaa3b71c0df2b865ee6b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "659e245654ec9cb23566a7882be1cdca18a4746d"
+git-tree-sha1 = "7f41e8755fe3c21cecf5f120e499557e6ce56680"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7b55cf7407d6d93175e06b27d5a2d56affcae0edc9a57b930f70a9b3ec60cf51"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "f5b60254f3b6a9445b84a45b4881be29151672ccd2e5774b007e3fdc8d1515a7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "90408c25d4caf0d7536b3e4a9c94f7be9660933f"
+git-tree-sha1 = "9312b1484750aa287a038b18d43edcd658b971e0"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f279d1f0b8ea133edbabb56d10a1365a9473463b2a357c6acb9f4acb07e95249"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "60fbc9960148dea9ac5acdbdae102a33da625fe71e7862d0d11a4f3004ba05b8"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "47616fe5530678c05b8a2d92a03fb993584d04c0"
+git-tree-sha1 = "7f05f9ff239a834daf938767a13043ae4f350fcc"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4b8d7f3758499eb4aca91fc95f3f1097ad07e513d67c45eef2ed89050382ced1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "b75a878cbbb7c5372f5ebd7a8246a4e1c02e52964efc097d9f2432f5340384b2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "24b57f3cdc4662cfaced9164cc27b07a27cb1068"
+git-tree-sha1 = "2bd4acf6df7978f94a8546a1c387332de12874bb"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "59828d55e0a61d8280333f877e6bb1c9ddb7ddf4cac903115651ee70f3b8c675"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "dbf828de9cf64970dde1521464251576d572c8791554305dc0ed9532b3294c36"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c857c972df62f74a0da069b8ab62e154760190d"
+git-tree-sha1 = "3e03bf224562e9e885908f118c57964810427fb7"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a35e512f1c0ec407e88addda6d77d4c738dab27360bada8967aa98d8dbfb78b7"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "1c7490eed3e6f91ed5f26020c0f9f3f399fc42ee8ee0e405733c4d8196a16f5e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cdc49413dd4b06a941a562127560ef996745568d"
+git-tree-sha1 = "f1f4daa2dab5c6399f554ff87d52ece91c77d3c7"
 lazy = true
 libc = "glibc"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "06e060be7f642609f647e2651c745ed54a9a14133855df02f8033fed9c132e4c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "fe8e34548d7a535d1b1e313fa2dad19bd35a3927c01b762be0fc1ef94dd4e171"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3cecf65e5454eb86ea21d7df96e7251a6f1398f6"
+git-tree-sha1 = "d8004b9fb9f65a4f576af5bfe5e636c3827240b4"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ed21eec9b9252224305d415706e38598ae0a4ff2970f677c2ebe22fa09147155"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-musl-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "1f5572b25de11bea37206b069663fe09c04c04f5d9e220485fdbb08e57871af4"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-musl-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "648f31c1287b02d60afeee48b5c38e54cbc7918c"
+git-tree-sha1 = "6959b866d6a4990066dc39505651132e81d0f6f6"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "bdc3edb69807c21cbf69e2bb4f0d230fca128b3986cb1a9318923f748d834c65"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-musl-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "0978997ed1da7326aa9c37b9394cb2f273c280124411dfabf5f88a97975068c0"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-musl-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2a6ac6a25c1e130c31ed1212c670891a63ec23f"
+git-tree-sha1 = "528a6dde64acba28a3ed94fea54b31ab41507b76"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "304b7727146fd7202bd40c1fb1112a1982e34015912d31d94e0e755ced6e34bf"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "0ba531fc3115f870e129d8ddda246a079c1d615599364a296a31c041ea2b5a25"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b02eca14593ee7a1cc109dee9b26cc822ea38e3d"
+git-tree-sha1 = "31798480f07599eeab4d1f93d9c27f9f09a80bcf"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "878d13b29b714a39e1443a8b0a17dc81f8df9181135d369c9d107874665d5f64"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "2293b8afe4ad3d7892f7c444c0cacc88bd9bfadcf6990067cd428663c1aac265"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6c7841f846a716185c0d4d1bec15679072b423e6"
+git-tree-sha1 = "4644da7e6242cd44137b3937a7a0b97ef57b6fcd"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f5a3204486ef1b69522ed31f0c103415e0f42b94fc3d81f41e752329492ed9e9"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "6cfa11373dad21ca5ce59e42eb0bed8e4070a468da6e1bab19840c07c31f3f1b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2cba0fad7c9bb178ccfb530535a0dc00372fd3cd"
+git-tree-sha1 = "2a4ecb914477927b2807e19f0abdb6b5802f8a5a"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e4bc6e045e693dc1c7ce5fb6922f233d386a440d165028bd86c1906e68fd0c53"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "6cf3892a8cd2dbab43c1c6b03cfb9ce2b42e17106dea6958693ebd203e7dee6f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd694e09c58f2f8423056338fcbb83e5e5ec1dde"
+git-tree-sha1 = "eb260e1af16f0d8449761e1a0f09c50826ee3a31"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "16d6dc5e41d11cd4549c524f1cf66286bd5a142978d080bb2abd8e074f6bdea6"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "e9be1a7f11eceb1f6b9aa6439a33e6a14c8603120493fcdffb42940fcf9d4201"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b132252c299098015fe6039c1c6d41f4a251a7d8"
+git-tree-sha1 = "4c52c0c0385da15bd7490d368cd5e9e77680e97c"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "506dccb13218d36020a46e306ac0311a130f4d80e585f3ebdf0a42f370ffba24"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "405b18cc5cb658d4c2a16ea4aca80e68a8dedfe47ab1329812dee3307600a03b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3545bd8b19ea142bec6a68572571d176435f2ee5"
+git-tree-sha1 = "90e5a1f27673c07880d4369c39ed2779d0b18bac"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0e9bbeec1e44eda70d9aa1da541c1af26c17501d6c4b670aaa8ac2736dffbc6c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "002589115149128faa0ff5cac9d571df73f10d7401968e2a7b54ae51f1bc8eae"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6feffa93c2d6d9eb4a6acf961e79ee01ea6f2841"
+git-tree-sha1 = "9b4873749cb81e0f84a7fd75b776086e14928c8c"
 lazy = true
 libc = "musl"
 llvm_version = "14.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c76f2f348a4ffea6e6d642b2a06850759f39cf712f19c816f1ff3b95c684e8c0"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "2eb465deee2829d8e81aaebf8432f1b1ab473c0c7d059551a05faddcfb3690e4"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "ff980576be291172fd3f6637febee7c1d05a6bae"
+git-tree-sha1 = "213864de64087d26986611cd2f49b6398aa5e2ff"
 lazy = true
 llvm_version = "14.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e562b6c886a87d11190d3bd7f501901beadd7374be80db76d1d1be1830be5847"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+14.asserts.tar.gz"
+    sha256 = "66c92f0f6fb1982e2cec86595e6819a777b8f9ac121d8686d2745ad56992888d"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "0776e7314b1296d63e179a66a9bb6d4294ae2bae"
+git-tree-sha1 = "4868966e10a8bf83b4de18c3b27f66d85703c27e"
 lazy = true
 llvm_version = "14.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "47f788a7dad9dda110008e3d0d84a5a7aa3000c0d0acb6fec7d06d930fc9b9c5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+14.asserts.tar.gz"
+    sha256 = "851223f907e94963e14681c8352c7a28181a25303600a45ba1e88bb8b0e25dd9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "50c793fad12df1edac46ee82b531e37288a4900b"
+git-tree-sha1 = "581b2c080e6016f681a1708ed7b9145c52c891b2"
 lazy = true
 llvm_version = "14.asserts"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4c179c6e8d911d8386dac21076d4b180b6538e5d1aab4684a4b37b410a6db2d6"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+14.asserts.tar.gz"
+    sha256 = "5646577c3b9d9abb3c47fa752cf1fb3a47438b9dfc6c7b2221d2e0d22b05562e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3b5bc79311a975c23cdedf00dbd1d98c8a13388e"
+git-tree-sha1 = "aaf576d8763024c5200bfcff97defd0a17aab371"
 lazy = true
 llvm_version = "14.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "2ca3e6d95cf1d742a9fda0bad0c4e2f8255c23a0789b946ebd1ecb7248600215"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "cbd59db388a8f728678fef3fd5344ce5b7644f0ee9506e233c7dee1c1c0ccbd6"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2f6287467edfe44945fce565e74c6257191301ef"
+git-tree-sha1 = "0e5d4ca5884e7e17c0a12420036ad57c6b0dce30"
 lazy = true
 llvm_version = "14.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4292270a9b60354c33a0a6c880c51276b0916436e587d860590b68e14670a8f4"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "38ac87fc456462ef9854ed11f930380ae83559943ac299738ac53142aa0a3637"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c141522d61014368bd9350fa026d88dde6b7e9ee"
+git-tree-sha1 = "ad6269e0a036d15c07c33b4258d95e4b2c549879"
 lazy = true
 llvm_version = "14.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "56d62f83a8f375879ac99ffbad3df031d19086bc47cfe7a225e05a7d46eda7aa"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+14.asserts.tar.gz"
+    sha256 = "bb4aec16e5736a570bc6b19f3efae4344868a6c17327974ff5aa227e1995b43f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fac575795ac0217fc997cbf0c86524ef370dc464"
+git-tree-sha1 = "0366a5abc1d43f516d0436dd54cd889aed5a26c3"
 lazy = true
 llvm_version = "14.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5ad1b4c7ceafacb01d508d1935e5a040c34a2abe28d54294f809eae4bc1696a3"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+14.asserts.tar.gz"
+    sha256 = "dff17e9bc75439e511ae09ebdf32b3c4315f0e56c6e12cfb001bf8b11b8e0931"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+14.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "75207541d544d0ac87be5c3a553269ebe07dbe3a"
+git-tree-sha1 = "c145eb54212d16415bc96a10d428f7cf79601c67"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "6b41af8af160bda32725fee745d82a515da66d38b7acda9b4a3eb0d54c898490"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+15.tar.gz"
+    sha256 = "680ad081c3ec623c734c7465d522b6e5591d7ee024e6d4978f113a9255ac9332"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "87aa83e679121e2a0efe0778c989e2607de98866"
+git-tree-sha1 = "fc10d7454b986936f234db31a72af4b22cb77eeb"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4ddd374271bfe28cf9f8327415935d13c5f91a6400c59fd400a20b70c378a717"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "14b7803970813df5a456a49423b777d31b5bf316217b99c0f65c0e5f4aa868b2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8f7234405f751cc92fa44554035ebec783341a3"
+git-tree-sha1 = "f153fac5dc7635595925f37666bb157f0994b982"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "07ed69ef3727c9eecc04963e638986cd2cab9b171aba293361804b093011cf79"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+15.tar.gz"
+    sha256 = "8f05e5a4f9f831c7d4714ab14a0f3bfba1004edf0a6eb061994e2b91ad42d686"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e43d8d79daf435d1729458a8b11f8f7613498335"
+git-tree-sha1 = "c36143b22fa331e71443e746858bd11db50e6423"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "42dd23502a87d68aa100e61000b61a6362d905894214f15ce39c0fb5f2292484"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "34de81785d5015c7db78c80a0f096e77760280c1e2ff849abbe936920618e7b2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dd344a8c9b50d9e0778e239a081fd2e43c8c5bed"
+git-tree-sha1 = "d8ee71c30cec5ca1a208d2ec32aae06344f81d6f"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "35fb7a64bfb8d9c24b1721fb59cf7b7f06e278f0cda95622600552b506cc6421"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+15.tar.gz"
+    sha256 = "67963aa585076b4ca38da687060e602585fcb9e65383fcce512d3a3525acffa4"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "855dd6f9c467b62eb79fb0d6c786f0baa009f99d"
+git-tree-sha1 = "8f6b1ef3926ee4178035dd87c3314b585d46b699"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "bcb697cc325ec960882c4a37ffb27f297351eef63dea7109a158a37d40d8113d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "7b76db909e566d8deb2bd098e70eee27d49665e26df972785d942fe507b6bc2a"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7dfe9399703344cf5d3dcb08952bedfa311288cd"
+git-tree-sha1 = "9071458346b585ac813128aefd119d3954766aa4"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "2e5db86a2a33154fa0d4793ae6f098d0e3714e3e065e9cf1a568568813075732"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+15.tar.gz"
+    sha256 = "28028735298f97c06bcb1fbb47bdf4c64c0ad4015409f1324113bdfd14d9c36b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03ea61eeddfce8c11f29c6147889865d2e3b038d"
+git-tree-sha1 = "9101467e1fe6039f3d7b24cfa2a2647fbf30291b"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ea314ec42a3c0d446ac4121f71d9ff7a116b545d178d28f873b4cdb7fdc6ec89"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "f3dde08c6fed8731ec498377111c61115b6354290bfaf717d95e9659315bf60f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "66b491d2c3ad59d6d1de33c8fb5e6a2b638b3dc9"
+git-tree-sha1 = "3285e65d4ca167b7a4ee9c3d511443dd4cd87074"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "095360a0509667ea32acad2aa07ab08b3d689a70c38026fc58aef0d87a97a3d6"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+15.tar.gz"
+    sha256 = "180fe7352891c2d1fed860b52d41f5339640d95e6d4515c012aa78890758300e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bd3fd6698d01e15cfc0c817ab99057cb1328e0d2"
+git-tree-sha1 = "b5ed47dabead9efcaccf3bcff8fb99b3c86be114"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "3ff3a9b769dcb78746249579112b6a33a2ec6fcb1fff9c0d792f9b4783a32ac0"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "33a0d1bd732ea4b3d839b00a7be7e7776a95ac3d9b51f69d3bba33d72c55162b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6eeadc90007ea1a026857d9bb394d4d91ecd0b10"
+git-tree-sha1 = "aae12b6895756dbbce1087d9deb8392a4abdb69f"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ac12971044ba7c3213aadfdbb61658faa1b14cc6f09577ed42120576ba33a1dc"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+15.tar.gz"
+    sha256 = "178f11805da6e6fb2c8f301de3e576b3ba42ad8412cc52eb11ad638b3b596ed8"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f0bd4722307c63318fb3cd9a2927c1a3ad8d1644"
+git-tree-sha1 = "172f13e3397a8b87b6bfd49e62b0a0b5eddfa593"
 lazy = true
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "057ab762737ab092a29c091da7b2cc46a4f338815f215994306c56d0af7f8d0a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "e8f9beca83ac11de1cab9c3e67f6c528d3d2542f6a7ffbabf131956d4be3d607"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1cd059bc7fddaf6036b9ed4d9764ad13c0454001"
+git-tree-sha1 = "f98a17088bd04372d4e671447309097b3591921e"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "b913f3c34ebef95fb35a350a923dbea6159df8684308530a61bcca01d513bace"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+15.tar.gz"
+    sha256 = "cf1f303a33218fb20ce2c7d6b809a33921a97c6d2d48d8b3411549565659b045"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "46f1278dbdedf75582d6a38bfa4acb4d255354b6"
+git-tree-sha1 = "3477ee85a52482d7886e18fdc50957bd344a8309"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "1d2ee0dd7048545e6b2b5e3bf89260513f3dd1353ab11972f1b1f14023f0a92a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
+    sha256 = "0cd571dda875e5c6b39bf566d2d0538ec374ed80629a375534ec54104c7e0f49"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96c1b35328d2abe5e2c5db7618741152b841cc3b"
+git-tree-sha1 = "0548f91a9f1dd2b341385ca611854b93ebcd00cb"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "9572acab8be4396a099e70a285b172e6c695f065d775ebfd46a12c656fb2b841"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+15.tar.gz"
+    sha256 = "28afb8c027157015aeecdc94dc809f2a235b0c72d9fe607ff676bcf42f9ddf0e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "405523a0414e8860a85dd037dd0e93e015f76ae2"
+git-tree-sha1 = "425bd3136637231c1a96d4ecb4fe2ab765bd44af"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "b91d70adbc1f22c3c31c0ea61de5ae51efe899048419a106cd579afd6c72fe9d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
+    sha256 = "c064dbf10a8dee1faaf2bf8f7dc511023c06524653713e6131dca6064e60946c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d806495e03c84ce0fc8f5102de07852caf4ce75"
+git-tree-sha1 = "66ad66511c9fea8aac854cc85fee31b829cb9aa2"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "1a787d5e24f4796579ad16472acb7a9e9bf73fa0326198c7eaa815327a53ef1c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+15.tar.gz"
+    sha256 = "e19db6034a8c9884c7854333bca6075fcae83cbb9c86741e7a2721e499a2c2f5"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b93a8fc284a7b859a59720ba16f69e6b20135fc"
+git-tree-sha1 = "22e588b9acf033cc5bf255d838c24f322f2c9e48"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ebea77fda5585c4c57c1c04a0f6e763a19d1b6bd191b24c21e9f6f20b171e1e2"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "d13fc5afe049e43f51c7c6bf58552fc7324ded7c41bc88c9e0234f3d07ee78db"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2da579ef9ee5980fec4b4ec14e50ce0193f85676"
+git-tree-sha1 = "6fea9b35c9c9dc6c1cb227ab43b1bd6cc00682b4"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0adad6e9218c93810b16328d7fc570828b2093372ca422f2ffdba0051025d477"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+15.tar.gz"
+    sha256 = "dfc24e76ad887d589c117277229617bece221002dc7b51356202dd5d39c736a5"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13690c2f12d2943d0355e1a7cb205f865b15075f"
+git-tree-sha1 = "ca0ef3614274d1e9931ae641b64a156cfc948df3"
 lazy = true
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "353ab998ed57cfe6f5d5bd57f70f7c949ca40ce0aff5493204e304d07ccd2bc0"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "95964a3b04268b0a15377cab0d85ac86eae2f7ba56876181ae7e750ec7df2d5a"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "e250ba47ba86378be61a59bbbd5635a3329d1011"
+git-tree-sha1 = "6f146453aeb00c38adebb917e0ace08ec753e8d4"
 lazy = true
 llvm_version = "15"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "18524d11c1fac259a21adb2a0bf6e1ac23f1ff0198d485d4eded91a322d66549"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+15.tar.gz"
+    sha256 = "e2d0d39ac76513c1c92fb9a1aca996a9032cc8b1ae4c9f94b45fbfe02b068ec6"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "45e6db3d2aab6d389799c7e7a732d00a08a23aaa"
+git-tree-sha1 = "4e94748d732c508e56d3b00db3fe5391c4443b1e"
 lazy = true
 llvm_version = "15"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "aadd001199793889a920cd08b0b643b352f654a78d046ef6d9bc3721b8cf9fcc"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+15.tar.gz"
+    sha256 = "14900cc25fa99386b4d19c2789c9fcb9a487f3a1f3d7033e9c580d5c8c20614e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "980597a041a99ba154c63d7051f656186c503ac3"
+git-tree-sha1 = "b5114c16f113a265dc19e2422cb07426d5598c34"
 lazy = true
 llvm_version = "15"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "8ed5325c42e869e1f3c6862c571d6a1773e2b3405e39520ab93c4b6284113933"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
+    sha256 = "27e44ee7c77339645e4f443a546bfdf99851ea19201fd8562b144c3fe940853e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1e2194d308fbe2d077271969b7277fc1340ac6d"
+git-tree-sha1 = "bb118993b26f285585d3ba0b2f775ee1f8eb0ae0"
 lazy = true
 llvm_version = "15"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c544ad41a68dab19d3999c51b201161f19dcdc852c1e7abd5f7ee8bb9ff5e17e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+15.tar.gz"
+    sha256 = "fc60eff2094d4a3737f80e881ed846ff4eaefc659fefb695e816658dfadf0f59"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c65ec0eb8cbc1e8eb673c27e13ceab3033c731aa"
+git-tree-sha1 = "c6ff2663cd5ab1ba3bd8dca57eb8773424b63a9c"
 lazy = true
 llvm_version = "15"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "eb551c6e2d0ed3ec635f03427a6f3ebd84763a71c3a2c506ac046e8fe4898633"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+    sha256 = "a5789e6d28124b6b87c344bc3d518ac64befe5a411e2c8babc279a5baee56157"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e00e25f7307d22d793d594326f57d76079900ed3"
+git-tree-sha1 = "57c0caa777a5bdc87433ffcf467cad5f40766525"
 lazy = true
 llvm_version = "15"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "bf02caa3021badddc3872448eeb4d3f5a48e0eec91045d7e777dce5cd455febc"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+15.tar.gz"
+    sha256 = "9e0c6bf2a43f53cfee5d0e30ba8e8719b75bba7304d1775447daa2a42b9e783b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3b1b6d6f283bb78ec9ae5820e18813fc39e5f30"
+git-tree-sha1 = "0f84b0fe35785bc3b4ad5989fbaf129cffbb6047"
 lazy = true
 llvm_version = "15"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d5ce17f70983d31662d63a2c30bbd422ed84a941ac20fb7f033081cb3c3ed9b6"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+    sha256 = "cbf23edb883a314fb830f4758c6b6723194bfe7cc5dca95a53240dbcb3144d73"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "00ffa2c85448696ce35435b1b6fa173fb7f5f05d"
+git-tree-sha1 = "378628d62a64805a79a1cad245395d4e8188fb10"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "642bf4a960a93209789ca68fc6ce25b58276fc9e446bfc7533ba4cfc7c5b96a1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "dc068ab06015f333de2c657fcadab81635213d693e5610f4d454a2a62bc88e57"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "80af5ad3a36f6046aa95f19cb1c3c5a90e866f13"
+git-tree-sha1 = "5ef45128d31122d9b83f2e4fe448064ac57150d2"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c2390d122cc819c9f5f0848b7058747188bf73b74b561237647c023eebea4964"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "251e7afc3286c5b8c22df082f1cb722babdf5ce4f4be85362d6108c9e407d091"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "71902ad367fc831540fb80780cf6efcd33073381"
+git-tree-sha1 = "6cdcf0feb54395d88d04b5db5c1f145fcc8d6d17"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f941d2afc595cfd1fbd4c2dea63ec1d06c022cd834ea1323a4e63cf71d8e8ec1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "e00b088eeb57d9439f9524e8aa2dd8888adb274f44228464c6dc1c364f1e12af"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b2ff8732708ecc27d826e122173b0650cbfa0d2"
+git-tree-sha1 = "d42adac2e378fdea3d3f1f453a35279d7c5e123c"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "6e4355de0b4e90721cd305126382c156903ec009bad1ebb9cc87382a0e8df43b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "b4fe145c5e530f8c9ff49a5b3439dd0c5898eb19c51a535c70ff2ec4a5dd69cf"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c4e5d59be18a839360edf51ec5b048838bcd4201"
+git-tree-sha1 = "376cd8afadf88e804076258d62e09b155459cde7"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "cbb96240cf4657d98a00c07866584ee67e982ad1baefb5ed0ab1e8f78f5240e5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "875029e6af653cf754c553b1048de6c7bfe7e1dc803cfdcd9fdd00d7e3342bfb"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a09463d6db731042c7ddf245156887968e17f78c"
+git-tree-sha1 = "0468dec0f175ec72111794141ef3d7ffa2b3a054"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "98ccdbbed067094ddc24fb9cefe1d0b8ea06d79c17a71409267dc080b68cf9f2"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "e6498f83a2049f7a6ec0f99c5c53c324171d40751b630c8f0c9a1586591289c8"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1d523ae4dc9f672f804ce8a25550423d23f4873"
+git-tree-sha1 = "4aacdb0b185df7b45cb558d444aedeef3dcb8896"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f49a014f90444426f6f19603e952a17424d45cdf3d135325136ab7f0c5f7b90b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "8560a912937c4981ad4ea1aeb235519a2eec9b460c4faf89561af85a64b0edbe"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9bad74e69eadbc6bb896b653d30a91b4e84d7800"
+git-tree-sha1 = "43e889a6ca4f5ebcdefc2c779ccc0667a92f5b7d"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "1d3684ebb6bbb2cab8c5bfec484ce4151fee90fe8d2a6a71b79006f8d3f3094d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "76626aa3b2b3905211ffa0bc4843c74c10ad0b33859cd7130d2e9a6c63efad94"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d23e51eaa5dd6ef7823753e9cf95255a910d835e"
+git-tree-sha1 = "d780db1a7d9ec133cfcf1bc8fe4ee16d6ed5900c"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "36de5c8207cba9c7188f5bcc2c4511366c7483a977f480527791ebd8313c49b8"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "fbcecc9483a53bbeb0a0800e80fc71c0f25ab5071d9665e5a504f1d698ac786c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec1b07d408e32574c1b70f46b36a342ecbe1c0cc"
+git-tree-sha1 = "d32e0fa6f5c33944b54959f9e019c7c28013e427"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a0583d797686ff2e65f4ba7de74d96f3e06ccc50ca17cd7887d4d3852a81c874"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "e12e4b27264969151b92a1fb5ed15d205ac5fa7e11673127247ca3cd0afcb9f2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad3391d36c039276bf30f83ecb092f17fa25766e"
+git-tree-sha1 = "552b83774ea667a1783d8ee3a09258b850f4f7a3"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "989ad6fe10b82c6e7fdab574ed921c1621814f29fe8d5e4ee60aa27ada0aaa02"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "590e842914a09d4eb0b8a077360c2ed4f934872a2b2f79515b9f06e5b025bb35"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6aade989431d5603fa1c39057bc028fa1e394297"
+git-tree-sha1 = "11f787bcf605030fd00b613247ed4a20b5b8797f"
 lazy = true
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "fee30da97fe6cb1040c2e6973eaec101b49d4eca121b7e27ac0bf2c4e564c00f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "70acf1a84629fe308f4c5474f6ed7c8ac2e9d13a898ff60f8bfa3bc2f40d1656"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a66ecf54e6bc9698e93bd61ade415409b1eda6bf"
+git-tree-sha1 = "f6d2562004db8634112b41b1ff1f748d2f55d85b"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7b6e1ce254d5d91373eeb11c1225459e481ead79129087b2e2faed81821cbf82"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "6d7f588f2f1ffc3f46ef1c54c57bec135954583ffdb0d33e3661440979dfe173"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e550b867123caeae5411a9dac17d1be508a8a6a"
+git-tree-sha1 = "1f38631810f50ccda382de397c5377531e78390c"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a91caa607000aedcfbca722cf59cfdd93a387631b13a8e965e980824c463fd11"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "3d7ab98f9ea7318b76fca5426ca536e0825fc69fa512737b36b466b87f2cfbfa"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e18f6b83084ea4490ba34dc477c9dbd03b51b6dd"
+git-tree-sha1 = "8237d806fa07f50702f851984d6d2fb8bf7d1e95"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "562135c3812123c67fe7659391bb317fd2ebba925003abf997412e518eddf496"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "b9053c5ac024c239c18e000b8f67b0c93e3b669dca648ed27d71e01dec9b1b87"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4683036b3e905b44cb9686614d927741e7a41e0"
+git-tree-sha1 = "998382138119d2de80ed33a1bed6dfc8b4a8a5c7"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "1078168635e245b12caf063dfee2a3e94e593f3441ab883a02d1fa14b83f84b2"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "00757b08d59c405d7ba5cf8f38c368eaaca961bcbd2a923cf9d696ab0726cf1d"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b34f63700056e2f304c5232687099d1f6295361"
+git-tree-sha1 = "8f9089e110b3a59a6e829f88b0a0cfdeb0e42665"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "498d35a182372d7b0c554c7e1192f1c4aaad9d0348be3240f11eaa855db8a9f7"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "3db2a3a43e8f5447cacab526879ed0cb13bc610b527515ee1191c8655d9fe208"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fd3581aadb5cea59b6d4f66e1137d3966982861f"
+git-tree-sha1 = "8878342ac04f5fe9c25f6301a8ca54abcab28786"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7477476ed7f951e5c7ee30527c034764a761b4e1c0a1d36c438be40d426f6542"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "9bc4e79d17ee9abaf580f4113a193722a00e9ae25994af597baea09aebfd3ecd"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "be046fc52a8c057077fcb0155607915eaa74c74b"
+git-tree-sha1 = "627e0a01775888d82a2c729bdbafbc1cf4126b15"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a15d302a32170ce7cc25aeed94e4c574fde32f7d6d216cdb9fff714d9d247ae0"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "37f53ed00dc8c1d0096579637747e0a7cce2e43705450521015d130bdabaf141"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cec2ca7de1b4764e106cade4fa52e41cc1219cd7"
+git-tree-sha1 = "181b636f712580172fccc93f63e1cf6f89e70306"
 lazy = true
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ab82f0fab31fa8c1fc369551b8220bfca4e66ead8b545e774c6ee1403b2459e1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "72656eb8a577a3b4726a2e9e3cfbe614a3a7086d2d9191bb14ee8faac3d11ba3"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "0748a5eec026664d05c2489819b4fb2ad6261073"
+git-tree-sha1 = "e62bd3f832bc9f413ae1966f91ccc16efff830fe"
 lazy = true
 llvm_version = "15.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0b6a54636a4d9e48d04ea38ab0ddb47d12794b1f4c1432259f24e77a58a8df7e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    sha256 = "aa7fa6b3c66296785e9ebfcd58e556ddc688d24f083d3a728b6e8816df9c2239"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "e051221e8ad745208824987fe14419d1b85fd2ca"
+git-tree-sha1 = "d3ef791578055c519a5f28445d1eb989b9d2794c"
 lazy = true
 llvm_version = "15.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e0bfdd82e038c920ab3906eb1b7d75fabafb419ef6bcf9977a45fac0c4509967"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    sha256 = "341168ec842424d6c07e0462aa372ee53afd20854c3c7454d8372513fc34b30b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "40bacd979e282cee39e9e7c8109f3dbea4062ada"
+git-tree-sha1 = "84fbe6db9d7f9367e7fcdf421d53f208cb8a6324"
 lazy = true
 llvm_version = "15.asserts"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0e4989dd6095a7ff2bb673ba40ff5042752428fa3e0ea7699559cebd9afe1dc1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
+    sha256 = "c2679cc2d3e352c542e6bd7bf8321c79dc53c45522735a75aaab0bd395d0ef7c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4ccea8dca33ee2a5e1a739698028ddd53b2ef938"
+git-tree-sha1 = "5c1e0e2c6fbe5e4c974eab84b338484b68236737"
 lazy = true
 llvm_version = "15.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "6a4c601dbfae814b4322d69db27deed49df22adf3c08e8a9dc2de9b7c9f6c2c7"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "6294875219512dcef7855e4ba702feb25c1e52585c02dbcea60fe2172827dcad"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cda7480c7d2dee321c32aed0b48fafc5d0ea5eb0"
+git-tree-sha1 = "d341cf046324c38ac5c47c4e110908d64b02adc2"
 lazy = true
 llvm_version = "15.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "031eac4d3272eef3f851a215d2e1409fd4be312e1c7d9074c1d6c2afb271500b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "4412ef7b8f44cf7f552dcdf38d1cbf1dfed49895fb869e7698c8d6bbf188f67b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bcd125c9a9e37f2e1671f0ac36c7b2f84fcbe667"
+git-tree-sha1 = "27d4e2bdce1121235006e92f582273f6d4aea014"
 lazy = true
 llvm_version = "15.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0b700f2b49cda17e2ee880e3b4f4c8320db25697405d7bd9d25587f3ad4a9d2e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+15.asserts.tar.gz"
+    sha256 = "de5c53462c666dc83311eec92e5e58d9b2f83b02d59f459fd56041eb6236f4b0"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9a4642b9214e3583f6ea0cca05fb20fe4c03b61a"
+git-tree-sha1 = "2eef34b17e9e5354d3a349ea5b784787692c91ff"
 lazy = true
 llvm_version = "15.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "021e65e3aab58971ed524fa65421dd3e8a4a3844ab33a06c583e0e0bdbb62275"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "1b3a899a1cb80f1db2b699001266db79b325466d46bf8c8608bc267986d53b3e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "53fa95951a0628bc288ca4491cec87ce839de6f2"
+git-tree-sha1 = "8b9eed2e822a7a41ba9ce5b37af494c4f6dc51f8"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e07d8106c21611d9099d775f59445b0f5eca0048e6b396e140fa6eb1a4a7e76e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+16.tar.gz"
+    sha256 = "4ed07e2b6bc428be8eb70e882d21b67af4afcf9f7e07b2eb24d9e2bff0bedd77"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "844752efb61136bbc1632a6ec1ccd307924a3bb1"
+git-tree-sha1 = "7da170a94bf5b7824f9b3707fce5224678eaab27"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "29ae9fa1efec10399f1539075a99ee60da9885336e8d03121bc2840ef24f884c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "5cdac71c935de08457bee4c6b879493ee7ff0b8a63be1a4d23104cd334874e7b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1a70b82a50dddd2255d575891812c9758ec9a0be"
+git-tree-sha1 = "12ebbe85fd8770243f68609cd91cb99d4004b3a7"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "b65e2517970fd6aa251dc6beea3f960ba0ad8aaca6e1486a2a66db77d0002237"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+16.tar.gz"
+    sha256 = "fc94e3e68a9996666f6d27ce5f31970cb5ebec91447a4d8a992768814eff5224"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3167453c2542e9722d46bfda3af3a9d7920fd4d6"
+git-tree-sha1 = "5ad2703a5f35504996a7c97dea41aec3e5c81bf3"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "35b4524b7c8bfebad24a549f00101c904e6554c1a745c44fc35ff7fb48e9bba5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "f1c79956855ee8ab06116b9e0435164f2d60e9b5128a5795d782fc8c6778d328"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "be53a0f4dd0657719f44019bafe4a0a55041aee9"
+git-tree-sha1 = "ba3cf130a628006c5c42059e311bd69062dfe607"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "59bc908b9eaf513ebba3becc9ab224f710da2de0361f876aa206cd56a295f898"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+16.tar.gz"
+    sha256 = "fcc3d3c38832e21a2b095e4ac444f43c0e962186e925243c4dbd0780a6589b41"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f9bd652388b33b8b4c145816a5fb6d0067b64216"
+git-tree-sha1 = "b1717a37b87e4f904706c732237daab626fab2de"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f04ee4b6bb0e8c1d0022333c7a17307d46e425e08b30cfeee3a09012d8e7726a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "f6390d93f329231f0e95c2f522721fb1fdb227a3e58f5048195507ed65b3f1df"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "571e28622c3e2e4d6d4c3f0d329d308e09005986"
+git-tree-sha1 = "b8bcf808f1b5b1b6529fd377c25bc295a449eb9a"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c0b9cd8c4e6a71a919bc1100ba34525fe3cf0fad68b6a9ace4cc74450ed264b8"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+16.tar.gz"
+    sha256 = "85b60d4382414e7536e763a3ad1b4136f402b712de2cdc322a1084da1a3d94bb"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a86f570657fbff220c7007f7cec7869bf84d145d"
+git-tree-sha1 = "5e0fcbddada462ef03bfc4838adee6f9927e630c"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f931e7b21a206663597f0061795b217636a58944df60f13da3591237cb799f27"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "64ad07d7bdb2cdb122ee97cb6f13d2d2c703f8458e9661afd38e04f6dbf863c6"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7ded33e06b2c17bb96e7dff54f1035e8eb414cfa"
+git-tree-sha1 = "43018e5bb4b578bc5a20c69d1a7ad0f1e600169f"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "cd358638400e4380c279a48e18c5857a2ee64b86869f339ac6b8a86d93bd7ab8"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+16.tar.gz"
+    sha256 = "e80c1bab14ae00317e63b20f18d6a7e979ae1de0c014d1891b69ed51cf4db693"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbf0c23fff3040c6f1cfa44811ea5026e28b8575"
+git-tree-sha1 = "24c4eb3da8594643b0c75964ceb1158e90b813c1"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "78198840429dfefe9c226034d6f1a0038008357c6380151095d8d47e1c0837d0"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "a961175df9fd816dceb96c98a09957ea05f38150dbe90be5091430faba2dd005"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dacb8abf288afa71b2fae969122f33be4f8e7ea0"
+git-tree-sha1 = "3ccd0882d97d0d7101a3422a1a58957306b86e3d"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c9665dcc94b552a95b6af2bafe13529df76e7c0ae09aaaad89d36d7bc8e30d85"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+16.tar.gz"
+    sha256 = "5ca9cb42b2a487ccf3c8151136e6d1ad9e3eb73215e9b763b039812f4c3d5e08"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "befeef2818c7c71757729f55871f8896d673fae3"
+git-tree-sha1 = "93fb92cd0c2e54273cdc1bc0055cae86e43ceba6"
 lazy = true
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a62c8082094eedb6c163772fd8989559a8af4bbdf079d186c0762e53f491560d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "27f9a67be279a7789f9bca55e1419fc435c4ebaf725acfa213fca9cef4df8ec5"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0f1c47cefa64360b18c5e2f01a491341d693ad52"
+git-tree-sha1 = "45a9e22345832725c1699a3090f69f517078356f"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ad9184d5954907e611e4c5f06a2e0c07788caa918fcf911d7b8c3c695ccb9193"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+16.tar.gz"
+    sha256 = "277c6aa7cc99c9b5ea6f2b14d25821c5130203cac0eb261ab597650599b4c300"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e56060ef4acd79e56f5ae8555d2a6b9b8244d19"
+git-tree-sha1 = "486ce444d8b3d2dcde231d13490ea8c7b7826ee3"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "fa1613bf5ab1743ef5a648a60c49f1f283142d4b68607af5a7c91163ca3e80ae"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
+    sha256 = "9dfc1f57f1c920e97b9daeed7d210d6bc52d0304622fdddba87c541cb9292c8d"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d1fcde8a3c2b212dabbcf7e9fae13782c28f93a"
+git-tree-sha1 = "afe435cfa532eceda0ed5fd26bb6f36ff930dbd5"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5120ddc86ffce1a21a77d2319445cd5559b7e77a4bd8c5354139cb8cb2ae6fd6"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+16.tar.gz"
+    sha256 = "4e102478df0ecc46821ae2d8854e9cd245dc85e9ff3612e71cac0bf90fb5109a"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "36b2d6deabdc59b7a727eb11c86792103878230b"
+git-tree-sha1 = "68f2cb8a4a8acefc491829dbc118b70ebb62100c"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e0acab16c7de4e98b04096dc543ebb3e3b01c9e7b3d3672c487d88bb53674654"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
+    sha256 = "0b8d177c41aae48771adc5bd5a3d1864ea2d3c70501831515e46260ed27deb14"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8d30428782a37cd62789d46cc035f56ef3155b31"
+git-tree-sha1 = "d8fad2cbe53c7d5b345a0aeae78f7c013c3a77cf"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ae23ee56d18b9718ff9e7c495a1db65fea0f90ff9842bcc75c7d0f3e5a16ddb7"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+16.tar.gz"
+    sha256 = "ae758c297344ad52cf1d162bf2cb5b229bb95f53ad32b8f7fbc2425ebf13ef73"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37852f7a6f8a19eccf9e160e6ac3b350da09ce18"
+git-tree-sha1 = "fe6f64e96f07290e051868d53f441fb333491836"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "aeaa57a7e3128124de23d2fcb268c5704733e209777ebebda540bf6a2972aa59"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "6568e8b33ab2ed1e5ab8f14a7cfc84fabf3fe2be1ea8f260572c1c64334eee57"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e510d51249973f907c85266798e23bd70ae3118"
+git-tree-sha1 = "d607ba81aa73356de748ef1b198466ca1a38dddf"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7f8f11732628ad8b83f019d4cea0b82d857f2feebe607afac0fcfc4deae7e340"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+16.tar.gz"
+    sha256 = "4e270210ebbb99d6caacf39b9784761d503313efad138ec90b19e83264af68ca"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b2f824330d20a7c657919f7828f7fd8e8c91fe5"
+git-tree-sha1 = "0bdfd66de51bb33c101528017f8b1d1750f80221"
 lazy = true
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e256db7022e9d2ec21b895182580dc0e25c4b1239fa3c9ca87eb08d34cd8a363"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "2c9eb2a9617985a08d9486e405b006ed176f16a1ef86b44d30be235c56a03765"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "7a421d91940821e13d1270627bd76b0a7507341e"
+git-tree-sha1 = "0bf9dd4890d455c1075752b4221c4100d66917d7"
 lazy = true
 llvm_version = "16"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f236510132474e9666d17c044939837d27d2505db17caf67fa89b95568f3c6bc"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+16.tar.gz"
+    sha256 = "5278a630814c0353865822b62939b42ad306d49fd0a6d6483a582536fd6a11a7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "b386044e965e4dae3490e9dfb5d4de175c61328c"
+git-tree-sha1 = "98916ed346d9081592135385c4643b6cb688adad"
 lazy = true
 llvm_version = "16"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c84e63c3185d12ef2a603148d6146d816893cabedb7750548955742a60503895"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+16.tar.gz"
+    sha256 = "11b51262c8978fdf4e13e8c6ccf07c5a87ec4aace65f68718bcaf7c3b98c0156"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "54e9b74852f0ac5860de8b5a4dc6e8144016120c"
+git-tree-sha1 = "1ec03c1693921e9e5110b7897fd36063232387b4"
 lazy = true
 llvm_version = "16"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "dfcd2a5fd0d7adf8c642e84eb80ad65329c2dd1bfc7aae763206eba6cf83d70f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
+    sha256 = "3871602b0f37a07eeac551039f238257ee9e526c51367c2f4ecf3b6f8844a41e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3d3f9a6b49ea40243331ea6f5e2b417025b1624b"
+git-tree-sha1 = "8ecaae0434573f3d88b2afeacb603afec4c2c250"
 lazy = true
 llvm_version = "16"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "83b6e2bc45dcbb1da50cec61420aba5f814d022cf53976c9900f568edd6cdb54"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+16.tar.gz"
+    sha256 = "f08fbf21fe5fe667ee428b82af0a117fe16f641fb68a36ef1ba6f7cd585a66ff"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "429e0fb259c7badfd23899252fda75133df8c157"
+git-tree-sha1 = "fc19277d1bb4222c81607a0fa8df51ed988e27e9"
 lazy = true
 llvm_version = "16"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "301e24be2bff0226f46f8fcd1b744bb05a38908f666d5e9a2361c01365ac5d27"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+    sha256 = "e7ded91e8ffa9c1bd09061c62a0df1e675072eed8b97e8a3c8acd7c2d0e5f736"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3992e0aedbb23bee8bae9d393c32b3a7e8dc051"
+git-tree-sha1 = "679cbef6ac4ee2c09be4fc320c1901edbe22e1f9"
 lazy = true
 llvm_version = "16"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d5baa7bd59f93f4451ac73078971cbeccadab430aba4cfa6dbe65e88d1cdf8dc"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+16.tar.gz"
+    sha256 = "d7d927a0f1803fd197312bbf32e9243b63f2d9d2d362db9f25d63f53b36a5f39"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1285c65843ddf3ff72f6088a9059bbed65dadc1"
+git-tree-sha1 = "bb228b1297353a6fa1b77f3c08b7ef91a8941747"
 lazy = true
 llvm_version = "16"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7cfdc6cd0bccd868d55ac43bfc3c2137218420e72b344ba5744a35207196f58b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+    sha256 = "13ff1ee08d856b65009177e3490929d4dd09df710f03cc62af60100558939962"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96464ea8aa807fa6fe19a1e2346cec22c1eaf39b"
+git-tree-sha1 = "c913c22d892ff829cff03507d3074dd6d54fc9eb"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "48176d95d4cb7c3f9cde4f5f1323ca881751f95c399b39d308b0314f6d74b461"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "51213aa78a0a090ef7b335d9f3d425b194a32e4923777fe0017e0baa329c753c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0f85d01854768f609fcdb4d740fb161033ba9ffd"
+git-tree-sha1 = "809f46e374c7cf9a0c3d25bf08f2892bf4dfa17c"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "13c5746838c9347323be8a94313826f9000d92077743c753f2cd7697aaf9074c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "a85c6368715c85f44bb9589cd7258b58dd3cdc0be1e276515bd1c2201ba7289d"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d7f6cc0afb247c42ee1f2d1287f4b807a0b54c8e"
+git-tree-sha1 = "5c5db32a29bc6501655dfc3581b222c4250c2f0d"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a8fbbd7b9a7e9c01a6f6378b60fb88a0b7aadb0c9d18211e5e6adf62783caf4a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "27b180ee9f3ef0a02c5a9c7abe3ef43d77f1c88b8304f41a944caf44d2e0c088"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70dbbf85add8666210dbef078b20bb16528a7dd5"
+git-tree-sha1 = "8ad5bbb2cb31781e5f50efb8c495a1b09ec1f2e6"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "cb5cbc4da14802428888523d60864e3637c00eb2dd1f3c07595091f8c4075e11"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "3d444fc48727f4d451d85b66fc0e9a924078715093beff2fdfc680adc708236e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fb6d57ec97359654d54cf7b9d72a96d7ab07e0e4"
+git-tree-sha1 = "c4776e98039b9be94a574bc786dd721ee6eb2004"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f4c9968c5d56e0c59a2e8b294f6d7df27b3e9c48a4b57ab1666e61d5c062f3a4"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "95a711ce908863da13a6bd4156e8d33505e40d68043b3dd56292da0b49a60e3a"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7689db7ca3ef2926ff2b3626fe932ff6b8550a5b"
+git-tree-sha1 = "ec1c3f5d61de04306674c8b16c2367cce9e5d6b1"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "aa2896d3e3300e61e7a032b083fc9e3e6b5ff108e48334d6b302fc905aecc651"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "f944d7c46fcb2a827a4da843487ca2f5e4b28143860c244c986cf7d7ad83835c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca22c7b8ea144e6756b12bcb23226c6f1082602f"
+git-tree-sha1 = "55f24e9ddcb574e59053d2df20989c10dabcaf18"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "16c5d96dc7bab8fcd5934c79b83412504c6384e5460300c77e20a6a87b21d912"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "568b3dec9c0c30f637f9e6f9941998aa4e5fd8f61be1620e5aa0931fa31a9b02"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03ebefa72e3f5933b1028a0371e3a5b03030ee35"
+git-tree-sha1 = "d3917a10432d02cd8a8fb843584d6702db7e2b56"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7e3d3ab03a034dfd46cd256110f6c90878e415057fc4749090523191719f7dfd"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "859b3d4aa30001be8923f0c9d2e63adba1cf1abc862434121fbe60e328a855e7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "70dbbe19cfc0e1f921652d7606fcf2c0310d0ee3"
+git-tree-sha1 = "a16e264cdf9baf54b05bd4bf73c3ad53225534ce"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0eb573c2a4efd7294017f9512f44feb5b1ae0ca41360af46495b0d20d3833dd6"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "f752207487906ee87a4ebced1809bba03b2d8bd8dd1ba3437a640cf469db37a2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8277edc284ca50f31419d8d7661b9b8ec997ffe3"
+git-tree-sha1 = "6f11100dbea6e866817aef831aeb56c09f0a11cb"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "980512a60243ec01f3eddf8ea95ee17abd8e81a0979c581aeb35119456879ce5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "08fc9cdb324269fe2f364a33a4083d605532477e5517614dfcd1e8cfe2788061"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "666ffc60822e53163b9d6b8e17d3212cc3e14445"
+git-tree-sha1 = "c39925858fefae17778af4990977dc2742c2db29"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e167ad4af8a2f6cc993e7ab6b256eacbbd595dc4bf22239ae29ba9ffaca31e78"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "f5ce0147cf66949bb30f6f9af1cc447b7a31a7d543335f6bb8dbcb4333f05681"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "293a69eb00e665e26af21dfaf3cc08b0a150ef8e"
+git-tree-sha1 = "d593900ce4c3fd855cf2ce2331709506b95fd3cd"
 lazy = true
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "8d782408d3b720d4f11670eb19f9ecba1f0cf98a2564abd59ddea119c17844f9"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "c9d8b6309d25afcbe03caf99da11ef351c413fc6dcb088bdf12376a9b36682a7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "279532d2b2939e000216ab13c74b39aa114448c3"
+git-tree-sha1 = "ee4bb7839b6c231052b6a330a3870d0a85bdbe56"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "6ad1c5e205897892395b5e52d5f4d3c5db791f5f2b1017facdb916060d278967"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "5af54ac9eba4aed31f3864817ff778b5b339e9969c7d6623ce95bb12e7c089de"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1285103f5b69d4f8ab4767bfcc7bddf3ca5d7e0"
+git-tree-sha1 = "c4bfdbc86a83a3862b7aaf223ebd56ffaa2e295e"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d2a4ece82029b5a1a95152477063f84b32245e42fa86fb4855d735b317d5398a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "c4b8e12c94edc04a6ac3ef00cc0daf45b9333dd1da2acfd5cfbc3e7215848f21"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "08ac68d497bdd245e4582b722760a32b26cbdc15"
+git-tree-sha1 = "d32a8a347885f1dab4cbfa67cbb62a9fa59f0eb7"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e0c029a279b675b6ee9ba41ec09b59ca50850262916ddc311020fa0ff2341954"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "b8fba338e9542c6d370ff74595b520611c6fec2acd7496cec200d752e1b4e349"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7fad349337eefa2c04d3a2eb17d3e726206406e3"
+git-tree-sha1 = "bbfddf235e53165c54bf0cc8d6d74b6fefe128c4"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e496ca57a037216d1294447919c22ac5a65091b79e47d2499b00f5c15f395ceb"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "0731f20d3312bb218f57badb424af5a55abb81cb1d5f32b40f143d3b22267694"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4be0d83594b9701981cf3f420862d8a21e2efbed"
+git-tree-sha1 = "bf133f7bc53bc89fac4fbe97cc1a97c2e58baa4c"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "52089eea66af36e538b5eb484127a59ea8f2b4b06388c4f5300f662b94f4e114"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "11881813445eeacc9081a2e1a6b99e648683e1117fd290661bbc0757f41b6397"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82fde3697f246db55b6091b068eb375f98d528f5"
+git-tree-sha1 = "c94b487b7d7bd93df2de3f0676a58944794cff73"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "83476c286db4a7563aed2bb0cd7a51ba548257d8d8f30a44e801ab3ee1a33821"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "2f6ed77e1ffe6305f6c05fb682f16f7ef8172c52ff06ce5a7b5c90f140174460"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96b1bc07a7da78db3e2a794cc7f8ac447c44bb02"
+git-tree-sha1 = "6caa54370ef0eae34dfdcef3042e86d8c33b3b66"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5b0c26e1df925b5822efe7912a3439ada8ece581629fdc123480c3ce07afbbb7"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "5dc9a66aae8a03d687970d18f18aeff36b8124495c06640da041363b88563d8b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b39bda058b77715fa1a1cc0685bca406dba683b2"
+git-tree-sha1 = "a02eed40373d5abd2da4b17a6d57f410a3982e38"
 lazy = true
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ed2aa351e31d4b4106f0e53aef67bbe4ac809c19694a6b6eb4a8b6f10891a974"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "c126904196eb916f988f8234ed90329faf96aad7609549ef08d79b9b3dcfa5ad"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "fcfd70c934a0d5cee9268ac1904b456251c245ed"
+git-tree-sha1 = "d9bb38f37cffd0fe524652fb99f265de9fea8ee8"
 lazy = true
 llvm_version = "16.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "704ef1712c69855bf59439a52b604d58c814b32a49aee20366908fc71e3339db"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
+    sha256 = "8107ae0ed7d3136e2e9af6da58b82755b8124c9ad1894d748bbd750fce29dc17"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "27f564c1a4c3d3715abc4dfc1094c1e7fed43093"
+git-tree-sha1 = "c6add018f75c85c790da516f84dc71ebb8625e11"
 lazy = true
 llvm_version = "16.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "3dac8cd7d2557f8f7e601f687c4576eed45198d846ccd23732c56057188b85e1"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
+    sha256 = "c7d10327dfef3d7e56b16288b66e8b8fcb2a8d1cfa90f897789d5265bc43e2d3"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "79765e42caa87a7c00fd78bb55d8f6a230e89ba9"
+git-tree-sha1 = "6a0901f9637140f723c1fb3cdc220bc9286be4a7"
 lazy = true
 llvm_version = "16.asserts"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4cd9073649dcac5bee0034df69d0b172811cb9a7a504365b6066cabe9e64bd2e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
+    sha256 = "b8e14f783f3a256fef50769a6b520acb3018043dc5f2dbb7db45d0dd4ec6737f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f7ba69204adb4962e5919cec6b6b31a81879ba65"
+git-tree-sha1 = "5fa270ac965978005cf7a8d383f8313b6e0b8ed6"
 lazy = true
 llvm_version = "16.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f334974719b70032d9d10bba1af5c45574871932d209bd6d22997c721aa9e295"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "e1220344d50e52eb3581ffec4d9aa7165db90f5c0a43d09c5af127d5b3117fd1"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4822a37c79a13e0a32d45f8b273dc68c6c5afa91"
+git-tree-sha1 = "1c6c4628c1a974336c0dd56ca1722ef5b91a21e8"
 lazy = true
 llvm_version = "16.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "04726ae77c1df941962092118fad91011a73b8166bf3030aa6caa47419280758"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "132a205fa40e3ca6dfac59a734f84a92caf00b94014ffab4d3f70cb0d6c07c97"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e97994bd6a5d71f316c6bfa2658ce05419bb9fff"
+git-tree-sha1 = "70bd30090e6abd6013fdb01c9d28880a8745f8fa"
 lazy = true
 llvm_version = "16.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "7b87853addc1f5ec652eef95438d06c59138ef8d83ab66836bc2305b3b89f06e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+16.asserts.tar.gz"
+    sha256 = "42375e2694645ccbf02f86e69328c89100e1292586e17f3e7728a74840e8dd90"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9715bfe8884de67b73197beae78578110218f3f"
+git-tree-sha1 = "00f9064903095fec1593327a6f32496d4217d1b3"
 lazy = true
 llvm_version = "16.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4e05f3bbe1572dee2e11cc31a40536332548fbab7c934b9b175cd25f20676ed4"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "5f88a3fdd418174d5047e22ff71c7a0719f16afc91ff63bd2b26964b47641a65"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3a616c4977db47200c395ad131b342f9f70f80e"
+git-tree-sha1 = "e6fb8b8f7bd51d41b3594ce44284294a5d7e8529"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "fb0d6461bf70fc246167689a31489d24d5e01f0ecc4d0331c327dc04ab83f1a2"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+17.tar.gz"
+    sha256 = "046313a0d443588e9953e67b53dcb835d0e6fedf9d1af1bb64674eba6a12ee58"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "970dacd5fd80941aaafdafc7b5c79d91eaabaf12"
+git-tree-sha1 = "bd78fc92298917553cdaca16d5ababc6b9791087"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "3455684fee2d25637e2d70b8d5f3ea78941b81e466021c0664c6fad9fe7ac3db"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+17.tar.gz"
+    sha256 = "bcdb63fbef2d95399ca8ead76fda96bbc566a22dd90a698e8f0fb3171e20e538"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6ceb44dfd4f9ee7001f4d1cf33371d6ca0a4394a"
+git-tree-sha1 = "090ed8d9c4ac80eb0b625adba2ce38fad767be12"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a0fed281d1cba58ff28070771aa09376ce1abdc292ec0ee482696abbc92ba423"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+17.tar.gz"
+    sha256 = "a49bca5c9a32ab9a0daf15b76f0886aced9159a40c1009d91b7488e8d6a94cbc"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8414b26f90f21a54cf9182d64f1c1b19c8c45f27"
+git-tree-sha1 = "49e4e723edb5e68f117cb2eed9e5f41f82a5ad7e"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "b45cf1680f64431e778b271d0cda00b08051c9b74d51883dedddc9dd4cf0ac9c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+17.tar.gz"
+    sha256 = "48fdd832a44615f907a27ccadd29a3aa141558f16647058a6c34120e13304974"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1cb84fc0d29b575a7485e59220f56308f63a8e78"
+git-tree-sha1 = "9a61629e934b94f563606fccda82674857d2674d"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "9bfcc5535b2698ba7df40597511949ba2aaf101281ec46dbd4dd4074e074944e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+17.tar.gz"
+    sha256 = "c454dabc5b6a5ad8ce3dfb29b8124cf25cd6cfbe22d3d7e39afbb2e368430737"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc13769a7d9f38c8c856fd1994b50b0ff69de62b"
+git-tree-sha1 = "099e91c9e43780c38f06048c6372526d9c2f5d49"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d6e2f5fc5aee1d1c6cd44a07d769a869cb8493def462bf371fb33fca6b49dd42"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+17.tar.gz"
+    sha256 = "fe3f4e64d458cb6b01366c2f1c2a08acc989a5e41cb89c8f9d026dcded2eefc2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "25c9d33d6a8c769cb7f91d6badb5c94fbb72c580"
+git-tree-sha1 = "61e80897d363aa8c81d05b32e9f23052d021b433"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ff2082273bcf50a22d3208b812d8e571d9758f4e799b09e2bb9dcaf596416452"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+17.tar.gz"
+    sha256 = "4c3879b0c9f5658ab552a3ba56eceffde9b38a3faaf755cebb8c0656688eeeca"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "32e38efa8b5818cda3e57784f847de8bb7fc383c"
+git-tree-sha1 = "3822f09fb54d16f6d96a1d5cf9c54615d385f617"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "697456e82562d84809038d78e59ea34c8cb81c233c1181ca4cd7da39948948ec"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+17.tar.gz"
+    sha256 = "8c28bae2651e150f78a8caf38acad0b8841a71b5335b03dee46cbc2662d0854c"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a2ae9007d6f58bde66a478bd8aad396b83235f03"
+git-tree-sha1 = "4d33d2809c7d62d4d4d479a3049f8b09685dbbc1"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c7b74ae861df0e0a87199a917097f2567b5af44f68c46456f92178456add48f9"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+17.tar.gz"
+    sha256 = "48b1fd0132ade11efadc06dcc870b6f62bc650de2d7c9211be93f8675d726a46"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2923e28ca3572543fbe4e28fc2bc2833f62a16ac"
+git-tree-sha1 = "9bf4df5dc8dff088f3962044b22d5eac51529d9e"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c61df821ea763c98fb710a971b882143afbfe3e25b09f9862c1e105ff7a3e0c4"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+17.tar.gz"
+    sha256 = "c3e21f72dc93239926884cce9b8dc6748032ebf147fa8974b483c90d434806a7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "37a4bd3ff8e681418d98f6a4285dc68e97a0a5fa"
+git-tree-sha1 = "2dfa25982dd4a703885c39d42ee9ac8ecef8c616"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "317c7e4f188ad0c1dbf6e9a11ec594b9b4589ca4814ee2054b5853a2ce66c8d5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+17.tar.gz"
+    sha256 = "dc31bb2bc700529d8f4a941633e5de631e428742a5f744649aa8ebe09f310c3e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03b0ad2bf89849c9b1b5802eb1bcf42734f01021"
+git-tree-sha1 = "379011bd8606eed3c68fcc5d1e7d83645ba5c691"
 lazy = true
 libc = "glibc"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5303bb7981aef9b13f4d10c0936722a64cf31c41a22056cd74d26908614c62b3"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+17.tar.gz"
+    sha256 = "1b7ff60ce9d0f0f5ea9fb7dad8ffaff824c277ac65fffb0793996da903843379"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c8c130cdc587d98028d1a9a87a6451ce5ba1cb8"
+git-tree-sha1 = "dc3c3c629be4a2edc94993f8d01cedf691978b4e"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ed0eabe18f18215046eaaa6ff32f68ccd73e4ffbd15a337a7a0d5b93539aad8b"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+17.tar.gz"
+    sha256 = "2a47f79604eed290d8fe7b7d79f1a9fd6867555b9eb6c380771a4535a6789221"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9be842e9e1ec5c897ce84020e1c6557844f84530"
+git-tree-sha1 = "27c37c2b322ece39e648f1f5c6bf708cb9c0a73a"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5c3f3bc0d44ba1ca7a3c019165b11aa3c3bc0e8a79f402731e7e9fd225310d79"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+17.tar.gz"
+    sha256 = "1c8a93f9808f322e2543341ced92623a5cccd6ff1c3ea32ae0ebfe66e4161fd3"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4b6c75c8f663819384fa4d217d9cbce930c7bddb"
+git-tree-sha1 = "2742bc93dc783c343e33ed471ae10361174342cd"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d3821243916067d7996a8e12efd20b63fd2afd356819b5cf5bd6adb77d07b323"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+17.tar.gz"
+    sha256 = "e5035b9cb713bce4b560f7d22d2a6d0d92ecc07bdaaeffbb9c1e0ae5002dec04"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7b8e12d4fd5fe9756f9c54a77433f5b9fd73e3f6"
+git-tree-sha1 = "6e678269ea99710ce0697d35724b5ffbbcec9c4f"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "048da3a3cb91e1c0f886c845ab5f07ac5a1132f3eb53f1cc55dfb2b06ebbf916"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+17.tar.gz"
+    sha256 = "00fbb436e8c8f6b1d4cfebcabff4e544d74466b9102ed59f360828560a6f2232"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c91b50242cbedf01ced3d1c71ab646b6d7b06c94"
+git-tree-sha1 = "f23a32722637418e42e107ba7fd38958545f2bdd"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "faec06a8f6dacc38a58ddb8994d9b439094278bff5db65fc174ef6c0b56d9834"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+17.tar.gz"
+    sha256 = "46ab54963acd459eb669fb20877532334042d54882ad0497617f22c0883ba471"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d521d40db3d8334654e4d1d38091b5d0c2319ed2"
+git-tree-sha1 = "75b899c33e0f19e6ffef6e086e3eed48e13ca283"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "c0b7bcfed303764c49071d6d6ed4678b970e342bc996323c360e3554128750be"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+17.tar.gz"
+    sha256 = "e9b00023f5e95a0edb2492861baa6b8b24821e85b95d6481e856fcc878528d2d"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de0d7fe815030a789d0f9aa5b214f28752843566"
+git-tree-sha1 = "8882bf090afe6379fd081a47518d86339643ac72"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0edf33204efd6581b89a060ad50e194a3fd9193a96c58c9acdc80a9a6df0bd61"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+17.tar.gz"
+    sha256 = "02e9555de48ffe7b737c4818c030ab89f2aa80c7bc56668c5ca18bf7ff733e67"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b8950e48f135175f9f2e5894e869f5a8fa51b39"
+git-tree-sha1 = "942d1556a2f7e7783fa0e453ae273919dca30517"
 lazy = true
 libc = "musl"
 llvm_version = "17"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f545c61f3e1ac828ca3ac8bc428f58db2568cbc5587983905ea6422c9b699714"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+17.tar.gz"
+    sha256 = "6c5a4c32fa88ec116798d9e40cfc6ab5f35437bc2af7f0786b6268d8f5f95c37"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "3c4de866eca7172777ed54f404b94b9a3740e3d9"
+git-tree-sha1 = "da79be1563b169edcd473edfc731b478540caed7"
 lazy = true
 llvm_version = "17"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "5256a6ca569eb2f4b31b64f97e4aac932b759a5e7d9079b9ccf6cc8f0d003925"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+17.tar.gz"
+    sha256 = "27ba02a84424f8d62f988cc1c43a9889c21315db1e4d2159be35cf46842369d0"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "c8ebafb45b314cd191609ddaec9e5c24914ccffb"
+git-tree-sha1 = "d9bdb2751ec91bd60861a9c3e971ecba44abb741"
 lazy = true
 llvm_version = "17"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f6f6ee33ed6966e937221edb17f14e763cd87fd6cc6a9e6f3a6de3d89626280e"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+17.tar.gz"
+    sha256 = "4ec53bf38c5ae282b860cd02e9eea7dc6c6a701e67e5a4969af0d83e4c4fd1d1"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "79292b9bf087c92232352712068d82d1104e4247"
+git-tree-sha1 = "a05fc78ada754a8023a8232ff2703b648cffdd4d"
 lazy = true
 llvm_version = "17"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0cd8153a836c7a37e0dff244844cca0eab752d763115b31e44f3a55ba6231b27"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+17.tar.gz"
+    sha256 = "11d872c67244ca6ef1d88b0b065894b50fb213f4c890deaed5b4a368cfcaeed2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ccbda1cea3727d48121d1b79100d68e4ecf27ace"
+git-tree-sha1 = "12a95eac8912fcd74790d8a76d2cdd549fdfea73"
 lazy = true
 llvm_version = "17"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "10c430441a2da48f131c9ed92afd658017ea3bce1763f48416af8b789906cb45"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+17.tar.gz"
+    sha256 = "676ddfeb5f22a8b97befa2c559c48db486e6309ac37947fb33bef90773567094"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a9a877e8ff331b1a3e6522df96ec9a1595f290ad"
+git-tree-sha1 = "6ea53415a31e16ca4bae6800ea53c5fb18259319"
 lazy = true
 llvm_version = "17"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "4b9e0f02cad095910c2652d5b2a672a067af58b82155e327401cb2892ed7e690"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+17.tar.gz"
+    sha256 = "c20746f43674b19b7613af43a56a979769cad889c3255df0ef0849694fa03743"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b846f5259436cf84bea7b42e41c1b10806ea0e89"
+git-tree-sha1 = "a93de9dd3fb2159b6377b69a2977699b377e91a1"
 lazy = true
 llvm_version = "17"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "813c023f12194af498d1b746d54771844ffb0946c4c082a372e8a92af401d800"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+17.tar.gz"
+    sha256 = "f8a012753be2a54b6bfc586e0e04d1c10d6a7889c9883d52d373e27793daac71"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc167b1fef6a9e54db13d24da34e023605a32c0c"
+git-tree-sha1 = "f0dc0f6aea1ea84f40bcd8fedf25346dc60a2c2d"
 lazy = true
 llvm_version = "17"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "76c20a87ae73c771a67bccef1f801739b2aeec0d361e5734246d2da48fdcaea5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+17.tar.gz"
+    sha256 = "daa54967acc991356c7cd0de1ff7c24b0dc26d86acbbe1f67d8194634dbfc5bc"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+17.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "348aff293073c4231574b68248a268e43bcc6e26"
+git-tree-sha1 = "2b71e9e5e4d6deb8ee71d3c964d4d10cdcc2e783"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "0efc6fcf868e4db739031a6be31fccf74ceb73312894539da5b40b9c60381002"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "737587a2c81ccd1c7d8e7b89fad35e46a25f0909b88730cd17e1ce32b7cfc583"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1da0c3e190aeac9d89e03fb47e586b10f6a8c256"
+git-tree-sha1 = "c5e63b46ef4b25492403a317ee4a10d77aa7b9fa"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "2c60ce6a7cb196b709717b48fca54e4965c9dcd0963c77666cd8705c0cf98038"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "38db8708958de509ae85915506429215ce992015f01745fd7026b036f7ce751a"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f11deecde020efe5ab6403d829dfb3d4109b21aa"
+git-tree-sha1 = "bc5bd74dc2c7a30a228c87726b71fc7c94a22eba"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "611738bb795fb479388f0dc075a376089fd0836bb558fbc0b870fd6796cc366a"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "7a81aa4bfd715775231f3e43a7dad5a727599754d8abb60300cd08e61a3731b9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "689b7cd263990c4574434baa61c4f9fa1860c054"
+git-tree-sha1 = "fc5d274d0702c1766e82bb254e501278bfe85303"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "f5f202d9043c6d0190c0c6107da37184ce982cba06b8b9f0c36f0fad48454213"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "ed2a68aef47d4cb8d7b8976c8027b8e97afc3bbae20f5da60cd5753339426067"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c90ecf65a6b48ab5634ecc6f0c9861b108418359"
+git-tree-sha1 = "0c34a88de479d6b7629ab792362ffc54fcac45c2"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "72e440f381adfdd50349bb57583df29eced3730074d62b138726abf7b7ff96bd"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "1fa4a882a83d6610c52505b5478002e9a58a6842f3e2262011ed45074e519ba9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ceae36ebb5efd462af99add19a50da9086c9f54c"
+git-tree-sha1 = "15762d7dccce26d9e3e88bff6c1a68e0ced5a9bf"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ee6a2f68694dc578b8dc7848a881a8893625b6d56228881b1bd57bdf51545806"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "3305b924b8dc53cbce1e7a0cee95c612dc158e070fb98c86766f7a86320856cc"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7fa8fd8958a33097af409df0af6e41236b87268c"
+git-tree-sha1 = "c78c3806e564d038efa04dd97ac5e39fe6f3cdeb"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "3e33cdd650a1a3ef15ca945e7d38a4d4b1049826ba795aeb8d4202fe87932531"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "829d41325990d5c6f6a2487670637467e1f8ed4c12ca98e22fe5d0cd11b442b7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3f3e08646d60840b5991468984c665e097fba361"
+git-tree-sha1 = "cd98e60ea8d6c3774338aa061f32fcdb068e62f8"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "d900a90f8aaa4c9c6b7e41bd37f721bf8f3c2c1bb316a716b1629d20958bd842"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-gnueabihf-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "858d2213b2fe0ceb49e4b46b557f8cf2a397f4107939ac4a965c3e4b615f6661"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-gnueabihf-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edd29c541a07d1efc450914b2eceb4ddae85eb69"
+git-tree-sha1 = "aa04d82c4e2a8cf9878aa44e26339bf444ae3b68"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "b64aaa734a4548d0ee8a632420489acbb09c4156ffe1f693804e77a58726d85c"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "ad11f366b2dd5f4852710d255dacb24b984c00f84797009e87c0e5eccb4dcbea"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "499e1bda18b7f54afc3808be79e8323778e37ce6"
+git-tree-sha1 = "5853a06ff20227581d6c2f1ea05647b716d562f1"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "3ef9099397d6221fdac1f806e7901c4a32db481de1244a989b3aade5ff19c2c5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-gnueabihf-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "6a6a719bc10fb28b7b20814da55e6e27310e9e831b97d9fff53ee7d8ccdb377b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-gnueabihf-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9e637f6996c2c4795015081d5dfc87372e1892ba"
+git-tree-sha1 = "36ea982c3bcebd9898bd14cc976f044dd57b1041"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "e2c9afdafaf3f82aa16c937293c7ab87f093ef41890558dd2083f00d8b90c72d"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "deb88db3a983d1672249d2b445efffad6705d162dfaf0fd2731d2f8ab27761e4"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb256e6c838ef43c90882f039f9063917472be5d"
+git-tree-sha1 = "63e11e98510bc8f55d827a997cd94384f0b1e7dd"
 lazy = true
 libc = "glibc"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ed148a9f602ac33e9100895f993c0f2410841b453ed2221e8ce21ab660653b78"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.powerpc64le-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "55d09a406ccb3a6b6afd56003f2d410b7ec444c8f5a7a97c50758599e1a012d9"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.powerpc64le-linux-gnu-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa1abca098d87feb5957737e5b32fc3813a7fe30"
+git-tree-sha1 = "77deffa598cb3bd8e97165917aa53bb3bee9a2c1"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ecca8c94ad616004a73be7be75edf7115e4417e2047ecea7c1ae211d68d08e91"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "92184e9bedfcdf00d7e640cf49e1913a2005aaeef3b717c9a524c3b6a2b332dc"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1ea5b7b1482f8c5c024a7c141b2749cfb87add36"
+git-tree-sha1 = "01f9e118c81bb1f0c76697710c7e9d2c2a087ae4"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "70cbdb2d7afb94f2584c38f6359f7417be262b0476df0a7c70e330b697bf55a9"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-linux-musl-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "5b7ea08438c791567661b2c212b833731b675c83518fdae5127c0b17888ace39"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-linux-musl-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "91a556f70c760ef489142d2095f0a0ffac687d5d"
+git-tree-sha1 = "f7445daa781a45de3263a6368ffa07ca1a8b6b0a"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "993bb03fad0a0192ea677d5938677787cd2231ac014ebfaed3ad3b1b57196297"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "d3e48b265900ba70fb94a8c022ab99261d63b5270f3b1367e71587792ea3d9f7"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "59654dfb8abb533480c917e3714d5e204872cae2"
+git-tree-sha1 = "500e9c49a232c379b8e16082e9184c41a30482b1"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "532b9b46aa74973b7c17f69eb905f3cb3cde41c387f6c96500951d75236d9fd4"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-linux-musl-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "fc64b0a4fa3b13851b062fd3d976e588bcdd5bb1176cd63daa4c9a0fb96b5278"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-linux-musl-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d37720172222dac5df2ed6637735e2d98cb15a5c"
+git-tree-sha1 = "d502595ed5100df48bf1a7b6a9c3e3bc31a0db7e"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "1643464cc52800399ac9982ee352f83e0bd2969ffd172ea843e3ddf6397797d5"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "2ee8a079270e37a3340e3f94d9ab155f8c67304e78409cd64e47b4defcba589f"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55e7acc8914fd1b862fb13ec914806220382030f"
+git-tree-sha1 = "ad7591ebc1e5c435fd6316a181333d024e2eee0f"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "a2818a82ebf3885b929456d0470cdb2927c1b98bc7d1efd4d0d7786470d248a9"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv6l-linux-musleabihf-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "16ada11c5d04587cb96048abd5ac9f4823d5bb3cfbeb92e6cccd49185ddc7b79"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv6l-linux-musleabihf-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9175236216579bcff9fade0b5cec9407b2337ecf"
+git-tree-sha1 = "4c77db0e5f0ecc19a0c5b36eb60fe8ffa8198da4"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "9498906792c55b8ffc959c3e3825c7a4b7592c8cadc45cf99f7052d870bba993"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "3b61724fd4f843404ee14ed175e3c1c5a61117f25a64e1debf17bfe4d90b0b45"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8024fcb646883a186692bfeb25e810f23300755"
+git-tree-sha1 = "7d21195608619d70c7e5ebbe514282f63fed67d8"
 lazy = true
 libc = "musl"
 llvm_version = "17.asserts"
 os = "linux"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "55e59ae22066c23a9f6f327bec0a11b69c7f3c8a5282b31367f9b932f7610476"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.armv7l-linux-musleabihf-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "4f007b7980b3c83d70d80b23e2210423d42c8ecba2e4ca1a2e2dfe9450da5469"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.armv7l-linux-musleabihf-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "f72951298618baab7f473df4c7607b080759479c"
+git-tree-sha1 = "7739870dc28fbff94b4d09a7919bb1fbfe311e37"
 lazy = true
 llvm_version = "17.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "70e4d5faa9969e1f9798cab9bed99640f0ca982e35579077c93dd931ef0be5dd"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-apple-darwin-llvm_version+17.asserts.tar.gz"
+    sha256 = "e0da6c2b6c0fe341823077faba51f69339e224912dad00916b696f67dede5f12"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-apple-darwin-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "aarch64"
-git-tree-sha1 = "0d80df4f3a17742f4f41458893a2fda3433f2c1f"
+git-tree-sha1 = "88d7ce35cdd16117dc3a8bae5936980712ec3328"
 lazy = true
 llvm_version = "17.asserts"
 os = "macos"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ca0aac5500c9c6d81f0c76fefd34543d46478ca2dec1218de005a8bea7708606"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.aarch64-apple-darwin-llvm_version+17.asserts.tar.gz"
+    sha256 = "9b45594e8ada71330580b7daf22a411b01372a8f432b6316959424b06cf0ae11"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.aarch64-apple-darwin-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
-git-tree-sha1 = "9f44072948db05f5fae06da4e961ca2c81bcf52c"
+git-tree-sha1 = "56ed7e6ae4fa3278390a6efac5f7cb4e8eb70cd8"
 lazy = true
 llvm_version = "17.asserts"
 os = "freebsd"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ad0eea8d7acb24e964fb1b1462199b0516733e128b1c644f07b340c37ecd8425"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-unknown-freebsd-llvm_version+17.asserts.tar.gz"
+    sha256 = "7d550f44e613a6fbec189cd2d33999b6021611957576141f1889919974aec79b"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-unknown-freebsd-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f7464423cd2b70e57722518aa163d771eacc8430"
+git-tree-sha1 = "3c942fbf58c59f944ccac0d02ca88f07b8bb780e"
 lazy = true
 llvm_version = "17.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "17003e89f024bfc4aa12b6fe24f99441ee67caccf1e8d8d576b92ad78c1e4f8f"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "c40330cca39dcd2af192399444f700bda0d2dbbdc30be38f4c444e6cd8ff4ac2"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64824db9fe7d7361f36319cd29a48424137d6f6a"
+git-tree-sha1 = "fed70e14727d899ec6cd64285f259e6ec9eba0df"
 lazy = true
 llvm_version = "17.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "2b1312154dd6ab7780278d1bed3b645ade70165b1367e8b016190d9e263e0c71"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.i686-w64-mingw32-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "5258b75e4478252cd01c30039f18d904e022ff97dc09f3b5e2a95cbbf93ebe06"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.i686-w64-mingw32-cxx11-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8cc97beff196fd715adcae2779a172f79f169d18"
+git-tree-sha1 = "32e0c016cb79d1ed1c8a4de9b342f46c45893158"
 lazy = true
 llvm_version = "17.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "ec6dac8e4f7aa5770853a41c7a79454cafa71668e47c428426ffe273f3613708"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx03-llvm_version+17.asserts.tar.gz"
+    sha256 = "1804086fe1055603041f55f53f512e435d4c7f03d538656fecceb10272cb173e"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx03-llvm_version+17.asserts.tar.gz"
 [[mlir_jl_tblgen]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "701fb5e198aa7fe689c7a3aa28ae8d115608aabd"
+git-tree-sha1 = "3c9f66ad06b94c05c0ae471e025cc0385224e52b"
 lazy = true
 llvm_version = "17.asserts"
 os = "windows"
 
     [[mlir_jl_tblgen.download]]
-    sha256 = "32d65cec1a5ad92209ec83d2d1ac09ad123c841b15092c22d008904918030a82"
-    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.7+0/mlir_jl_tblgen.v0.0.7.x86_64-w64-mingw32-cxx11-llvm_version+17.asserts.tar.gz"
+    sha256 = "4dc7e27022d10da3b845480a7d25b80b6e93147c941864dd96fa56e2bd85f453"
+    url = "https://github.com/JuliaBinaryWrappers/mlir_jl_tblgen_jll.jl/releases/download/mlir_jl_tblgen-v0.0.8+0/mlir_jl_tblgen.v0.0.8.x86_64-w64-mingw32-cxx11-llvm_version+17.asserts.tar.gz"
